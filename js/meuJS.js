@@ -5,4 +5,5 @@
   setTimeout(() => {
     document.getElementById("minhaSection").style.display = "block";
     document.getElementById("minhaNave").style.display = "block";
+    document.getElementById("minhaLocalizacao").style.display = "block";
   }, delay);

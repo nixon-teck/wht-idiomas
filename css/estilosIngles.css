@@ -111,12 +111,12 @@ border-radius: 2rem;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     overflow: hidden;
     position: relative;
-    /* border: 1px solid var(--cinza-claro); */
+    border: 1px solid var(--cinza-claro);
 }
 
 .pricing-card:hover {
     transform: translateY(-5px);
-    /* box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15); */
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
 }
 
 /* Destaque para o card "Mais Popular" */
@@ -162,7 +162,7 @@ border-radius: 2rem;
 /* Seção de Preço */
 .price-section {
     padding: 25px 20px 15px;
-    /* background-color: #e8eaf6;  */
+    background-color: #e8eaf6; 
     /* Um azul clarinho para a área de preço */
 }
 
@@ -274,23 +274,6 @@ border-radius: 2rem;
         font-size: 2rem;
     }
 }
-
-.Aproveitenovember{
-  background-image: url("/img/AproveiteBlackNovember.jpg");
-  width: 100%;                   /* 100% da largura da tela */
-  min-height: 300px;             /* altura mínima (ajuste se quiser) */
-  background-size: cover;        /* faz a imagem cobrir todo o espaço */
-  background-position: center;   /* centraliza a imagem */
-  background-repeat: no-repeat;  /* evita repetição */
-  display: flex;                 /* opcional: centralizar texto */
-  align-items: center;           /* centraliza verticalmente */
-  justify-content: center;       /* centraliza horizontalmente */
-  color: white;                /* texto visível sobre imagem */
-  box-sizing: border-box;        /* evita interferir em outras divs */
-  height: 1000px;
-}
-
-
 
 #oferta{
   text-align: right;
