@@ -7,3 +7,17 @@
     document.getElementById("minhaNave").style.display = "block";
     document.getElementById("minhaLocalizacao").style.display = "block";
   }, delay);
+
+
+  window.addEventListener("load", () => {
+   document.querySelector("#segundo_bloco").style.marginTop = "0px";
+  });
+
+  window.addEventListener("load", () => {
+  window.scrollTo({
+    top: document.body.scrollHeight,
+    behavior: "smooth"  // rolagem suave
+  });
+});
+
+
