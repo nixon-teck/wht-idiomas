@@ -2,6 +2,13 @@
     font-family: 'Poppins', sans-serif;
 }
 
+#regressivo{
+    background-color: red;
+    color: #d5f506;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
 .google-map{
 
 height: 30rem;
