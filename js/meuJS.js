@@ -19,7 +19,7 @@
   });
 });
 
-let tempo = 60; // valor inicial
+let tempo = 30; // valor inicial
 
   const contador = setInterval(() => {
     tempo--;
