@@ -1,4 +1,4 @@
-  // const delay = 60 * 1000;
+  const delay = 60 * 1000;
    // 1 min
 
   // Após o tempo, exibe a section
