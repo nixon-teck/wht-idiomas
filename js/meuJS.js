@@ -1,4 +1,5 @@
-  const delay = 60 * 1000; // 1 min
+  // const delay = 60 * 1000;
+   // 1 min
 
   // Após o tempo, exibe a section
   // setTimeout(() => {
@@ -19,7 +20,7 @@
   });
 });
 
-let tempo = 60; // valor inicial
+let tempo = 30; // valor inicial
 
   const contador = setInterval(() => {
     tempo--;
