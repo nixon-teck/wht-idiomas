@@ -1,5 +1,6 @@
-  const delay = 60 * 1000;
+const delay = 30 * 1000; // 1 min
    // 1 min
+// >>>>>>> 4f4d5cf50ce9dc87c4e9fd591572cdf4a0a9a603
 
   // Após o tempo, exibe a section
   // setTimeout(() => {
